@@ -18,6 +18,4 @@ We tested K = 4, 8, 16, 24, 32 frequencies across 3 videos:
 ![Frequency Ablation](frequency_ablation.png)
 ![Error Curve](frequency_error_curve.png)
 
-## Finding
-K=16 (paper's default) works well for gentle oscillatory motion 
-but is insufficient for translational wave motion.
+
