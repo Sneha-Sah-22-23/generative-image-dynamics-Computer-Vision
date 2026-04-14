@@ -1,7 +1,8 @@
 # Generative Image Dynamics — Google Colab Implementation
 
 Unofficial implementation of [Generative Image Dynamics](https://generative-image-dynamics.github.io/) 
-by Zhengqi Li et al., CVPR 2024.
+by Zhengqi Li et al.
+CVPR 2024.
 
 ## What this repo offers
 - Fast, easy Google Colab implementation
