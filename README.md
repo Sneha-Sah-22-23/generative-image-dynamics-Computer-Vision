@@ -11,12 +11,4 @@ CVPR 2024.
 - Frequency Ablation Analysis (our contribution)
 
 ## Download Models
-[OneDrive Link](https://1drv.ms/u/s!AjGGQwItv34-bK738lmdo7wf2uk?e=cWvbXo)
-
-## Frequency Ablation Results
-We tested K = 4, 8, 16, 24, 32 frequencies across 3 videos:
-
-![Frequency Ablation](frequency_ablation.png)
-![Error Curve](frequency_error_curve.png)
-
-
+[OneDrive Link](https://1drv.ms/u/s!AjGGQwItv34-bK738lmdo7wf2uk?e=cWvbXo
